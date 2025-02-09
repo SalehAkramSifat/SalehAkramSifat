@@ -25,7 +25,6 @@ I'm a **Flutter & Android Developer** with a passion for crafting high-quality m
 - IDEs: Android Studio, Visual Studio Code.  
 - Version Control: Git, GitHub, Bitbucket.  
 - CI/CD: Automating builds and deployments using GitHub Actions.   
-
 ---
 
 📫 Connect with me:
