@@ -42,7 +42,6 @@ I'm a **Flutter & Android Developer** with a passion for crafting high-quality m
 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalehAkramSifat&show_icons=true&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalehAkramSifat&show_icons=true&theme=tokyonight&icon_color=5865F2&text_color=ffffff&bg_color=1F222E)
 
 🔥GitHub Streak 
 
