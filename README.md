@@ -48,11 +48,10 @@ I'm a **Flutter & Android Developer** with a passion for crafting high-quality m
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SalehAkramSifat&theme=tokyonight)
 
 
-
 🌟 Trophies  
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SalehAkramSifat&theme=tokyonight)
-
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=SalehAkramSifat&theme=tokyonight)
 
 📜 License  
 
