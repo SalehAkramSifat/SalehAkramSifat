@@ -6,8 +6,8 @@ I'm a **Flutter & Android Developer** with a passion for crafting high-quality m
 🛠 Tech Stack  
 - 🌐 Cross-Platform: Flutter, Dart.
 - 📱 Android Platform: Kotlin, Java.
-- 🔥 Backend: Firebase, REST APIs
-- 🔧 Tools Android Studio, Git, GitHub
+- 🔥 Backend: Firebase, REST APIs.
+- 🔧 Tools Android Studio, Git, GitHub.
 
 -----------
 
