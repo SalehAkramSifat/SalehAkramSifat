@@ -13,8 +13,8 @@ I'm a **Flutter & Android Developer** with a passion for crafting high-quality m
 
 
 🌐 Cross-Platform Development
-- Flutter: Building beautiful, responsive, and performant apps.  
-- Dart: Core language for Flutter development.  
+- Flutter: Building beautiful, responsive, and performant apps.
+- Dart: Core language for Flutter development.
 
 📱 Native Android Development 
 - Kotlin: Modern and concise language for Android development.  
