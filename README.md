@@ -4,8 +4,8 @@
 I'm a **Flutter & Android Developer** with a passion for crafting high-quality mobile applications. I enjoy exploring cutting-edge technologies and turning innovative ideas into reality. With a strong foundation in both cross-platform and native development, I strive to deliver seamless user experiences across various devices.  
 
 🛠 Tech Stack  
-- 🌐 Cross-Platform: Flutter, Dart  
-- 📱 Android Platform: Kotlin, Java
+- 🌐 Cross-Platform: Flutter, Dart.
+- 📱 Android Platform: Kotlin, Java.
 - 🔥 Backend: Firebase, REST APIs  
 - 🔧 Tools Android Studio, Git, GitHub
 
