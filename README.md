@@ -17,8 +17,8 @@ I'm a **Flutter & Android Developer** with a passion for crafting high-quality m
 - Dart: Core language for Flutter development.
 
 📱 Native Android Development 
-- Kotlin: Modern and concise language for Android development.  
-- Java: Legacy projects and core Android SDK.  
+- Kotlin: Modern and concise language for Android development.
+- Java: Legacy projects and core Android SDK.
 
 
 🔧 Tools & Workflow
