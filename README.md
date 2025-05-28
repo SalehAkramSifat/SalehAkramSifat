@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saleh Akram Sifat</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=salehakramsifat&label=Profile%20views&color=0e75b6&style=flat" alt="salehakramsifat" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://wakatime.com/@294524e8-d5b9-4f7a-847e-a08b37065282">
     <img src="https://wakatime.com/badge/user/294524e8-d5b9-4f7a-847e-a08b37065282.svg" alt="wakatime" />
   </a>
