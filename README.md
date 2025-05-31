@@ -54,13 +54,7 @@
 ---
 
 ### 📊 GitHub Stats:
-
-<div align="left">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SalehAkramSifat&theme=transparent" alt="GitHub Profile Summary" />
-  
-  <br /><br />
-  
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalehAkramSifat&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
   
   <br /><br />
@@ -74,6 +68,12 @@
   <br /><br />
 
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=salehakramsifat&theme=midnight-purple&hide_border=true" alt="WakaTime Stats" />
+
+  <div align="left">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SalehAkramSifat&theme=transparent" alt="GitHub Profile Summary" />
+  
+  <br /><br />
 
 </div>
 
