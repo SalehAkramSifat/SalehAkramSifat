@@ -58,11 +58,20 @@
 
 ### 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salehakramsifat&show_icons=true&locale=en&layout=compact" alt="top languages" /></p>
+<td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarabjothsingh&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+      </td>
 <p> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salehakramsifat&show_icons=true&locale=en" alt="GitHub stats" /></p>
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%">
+        <img src="https://github-readme-stats.vercel.app/api?username=sarabjothsingh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+      </td>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salehakramsifat&" alt="GitHub streak" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarabjothsingh&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=salehakramsifat)](https://github.com/anuraghazra/github-readme-stats)
 
