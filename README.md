@@ -57,6 +57,10 @@
 
 <div align="left">
   <table>
+    <td>
+      <img width="400" 
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hridya2001&theme=transparent" />
+    </td>
     <tr>
       <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalehAkramSifat&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
