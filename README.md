@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Saleh Akram Sifat</h1>
+`<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hi 👋, I'm Saleh Akram Sifat" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=salehakramsifat&label=Profile%20views&color=0e75b6&style=flat" alt="salehakramsifat" />
