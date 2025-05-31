@@ -14,18 +14,9 @@
 
 ---
 
-- 🔭 I’m currently working on **eCommerce**
 - 🌱 I’m currently learning **Flutter, Dart**
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/salehakramsifat?tab=repositories)
 - 💬 Ask me about **Dart, OOP**
-- 📫 Reach me at **salehakramsifat@gmail.com**
-- ⚡ Fun fact: **Get risk ?**
-
----
-
-### 📝 Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -39,15 +30,6 @@
   </a>
   <a href="https://fb.com/salehakramsifat" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook"/>
-  </a>
-  <a href="https://dev.to/salehakramsifat" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white&style=for-the-badge" alt="Dev.to"/>
-  </a>
-  <a href="https://dribbble.com/salehakramsifat" target="_blank">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white&style=for-the-badge" alt="Dribbble"/>
-  </a>
-  <a href="https://www.behance.net/salehakramsifat" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white&style=for-the-badge" alt="Behance"/>
   </a>
   <a href="https://wakatime.com/@salehakramsifat" target="_blank">
     <img src="https://img.shields.io/badge/WakaTime-000000?logo=wakatime&logoColor=white&style=for-the-badge" alt="WakaTime"/>
@@ -64,11 +46,7 @@
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-  <a href="https://www.sketch.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
 </p>
 
 ---
