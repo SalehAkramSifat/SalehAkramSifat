@@ -58,20 +58,25 @@
 
 ### 📊 GitHub Stats:
 
-<td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarabjothsingh&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
-      </td>
-<p> </p>
-<div align="center">
+<div align="left">
   <table>
     <tr>
-      <td width="60%">
-        <img src="https://github-readme-stats.vercel.app/api?username=sarabjothsingh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalehAkramSifat&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
       </td>
+    </tr>
+    <tr>
+      <td width="60%">
+        <img src="https://github-readme-stats.vercel.app/api?username=SalehAkramSifat&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarabjothsingh&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalehAkramSifat&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
+
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=salehakramsifat)](https://github.com/anuraghazra/github-readme-stats)
 
