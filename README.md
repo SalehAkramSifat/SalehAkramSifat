@@ -1,6 +1,8 @@
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AC0000&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile" alt="Typing SVG" /></a></p></div>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/salehakramsifat">
-    <h1 align="center">Hi 👋, I'm  Saleh Akram Sifat</h1>
+    <h1 align="center">I'm  Saleh Akram Sifat</h1>
 
 
 <p align="left">
