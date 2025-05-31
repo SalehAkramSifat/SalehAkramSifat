@@ -55,33 +55,28 @@
 
 ### 📊 GitHub Stats:
 
-**<div align="left">
-  <table>
-    <td>
-      <img width="60%" 
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SalehAkramSifat&theme=transparent" />
-    </td>
-    <tr>
-      <td width="70%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalehAkramSifat&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td width="80%">
-        <img src="https://github-readme-stats.vercel.app/api?username=SalehAkramSifat&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
+<div align="left">
 
-  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SalehAkramSifat&theme=transparent" alt="GitHub Profile Summary" />
+  
+  <br /><br />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalehAkramSifat&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+  
+  <br /><br />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=SalehAkramSifat&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  
+  <br /><br />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalehAkramSifat&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>**
+  
+  <br /><br />
 
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=salehakramsifat&theme=midnight-purple&hide_border=true" alt="WakaTime Stats" />
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=salehakramsifat)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
----
 
 ### 🏆 GitHub Trophy
 
