@@ -1,8 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/salehakramsifat">
-    <img width="80%" alt="Hi 👋, I'm Saleh Akram Sifat" src="https://raw.githubusercontent.com/SalehSifat/practice_flutter/main/assets/gh-readme-header.png" />
-  </a>
-</p>
+    <h1 align="center">Hi 👋, I'm  Saleh Akram Sifat</h1>
 
 
 <p align="left">
