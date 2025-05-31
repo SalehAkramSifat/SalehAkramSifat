@@ -1,9 +1,6 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AC0000&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile" alt="Typing SVG" /></a></p></div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/salehakramsifat">
-    <h1 align="center">I'm  Saleh Akram Sifat</h1>
-
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=800&color=00D4FF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Saleh+Akram+Sifat+)](https://git.io/typing-svg)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=salehakramsifat&label=Profile%20views&color=0e75b6&style=flat" alt="salehakramsifat" />
