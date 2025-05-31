@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/salehakramsifat">
-    <img width="80%" alt="Hi 👋, I'm Saleh Akram Sifat" src="assets/gh-readme-header.png" />
+    <img width="80%" alt="Hi 👋, I'm Saleh Akram Sifat" src="https://raw.githubusercontent.com/SalehSifat/practice_flutter/main/assets/gh-readme-header.png" />
   </a>
 </p>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=salehakramsifat&label=Profile%20views&color=0e75b6&style=flat" alt="salehakramsifat" />
