@@ -66,7 +66,7 @@
   <div align="left">
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SalehAkramSifat&theme=transparent" alt="GitHub Profile Summary" />
-  
+  <figure><embed src="https://wakatime.com/share/@SalehAkramSifat/f6a73901-64e3-4858-b802-46a6440ec408.svg"></embed></figure>
 </div>
 
 
