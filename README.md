@@ -4,7 +4,7 @@
 
 
 <p align="centre"><b>Profile Views</b></p>  
-<p align="center"><img align="start" src="https://profile-counter.glitch.me/{SalehAkramSifat}/count.svg" /></p> 
+<p align="center"><img align="left" src="https://profile-counter.glitch.me/{SalehAkramSifat}/count.svg" /></p> 
 
 <p align="left">
   <a href="https://wakatime.com/@294524e8-d5b9-4f7a-847e-a08b37065282">
