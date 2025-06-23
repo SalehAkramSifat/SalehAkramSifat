@@ -3,7 +3,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=800&color=00D4FF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Saleh+Akram+Sifat+)](https://git.io/typing-svg)
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=salehakramsifat&color=blueviolet)
 
 <p align="left">
   <a href="https://wakatime.com/@294524e8-d5b9-4f7a-847e-a08b37065282">
