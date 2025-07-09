@@ -73,5 +73,9 @@
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=salehakramsifat&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
+
+📈 Total Visitors by Country**  
+[![Flag Counter](https://s01.flagcounter.com/count2/ap7/bg_ECECEC/txt_222222/border_FFFFFF/columns_8/maxflags_30/viewers_0/labels_1/pageviews_1/flags_1/percent_0/)](http://s01.flagcounter.com/more/ap7)
+
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AC0000&center=true&vCenter=true&width=435&lines=.+.+.+thanks+for+passing+by+.+.+." alt="Typing SVG" /></a>
 </div>
