@@ -29,7 +29,7 @@
   <a href="https://linkedin.com/in/salehakramsifat" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="https://fb.com/salehakramsifat" target="_blank">
+  <a href="https://fb.com/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook"/>
   </a>
   <a href="https://wakatime.com/@salehakramsifat" target="_blank">
