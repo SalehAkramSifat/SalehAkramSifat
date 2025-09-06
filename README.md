@@ -56,7 +56,7 @@
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalehAkramSifat&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=SalehAkramSifat&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SalehAkramSifat&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalehAkramSifat&theme=radical&hide_border=true" alt="GitHub Streak" />
   
