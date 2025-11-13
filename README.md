@@ -73,7 +73,13 @@
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=salehakramsifat&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
+---
 
+## 🗺️ GitHub Contribution Heatmap
+
+[![Sifat's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=salehakramsifat&theme=react-dark)](https://github.com/salehakramsifat)
+
+---
 
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AC0000&center=true&vCenter=true&width=435&lines=.+.+.+thanks+for+passing+by+.+.+." alt="Typing SVG" /></a>
 </div>
