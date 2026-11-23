@@ -101,7 +101,7 @@
 
 ### 🏆 GitHub Trophy
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=salehakramsifat&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=SalehAkramSifat)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
