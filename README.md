@@ -72,17 +72,17 @@
   </a>
 </p>
 
----
+---------
 
 ### 🚀 Featured Projects:
 
 | Project | Description | Links |
 | :--- | :--- | :---: |
-| **DealDrop** | 🛒 Community-driven app to find, save, and share local deals and discounts. | [![Google Play](https://img.shields.io/badge/Google_Play-00D26A?style=for-the-badge&logo=google-play&logoColor=black)](YOUR_LINK_HERE) |
-| **Elouisa+** | 🎬 All-in-one streaming platform with movies, TV shows, and live TV. | [![App Store](https://img.shields.io/badge/App_Store-E87EA1?style=for-the-badge&logo=apple&logoColor=white)](YOUR_LINK_HERE)<br>[![Google Play](https://img.shields.io/badge/Google_Play-E87EA1?style=for-the-badge&logo=google-play&logoColor=white)](YOUR_LINK_HERE) |
-| **TherapyGo** | 🩺 Healthcare appointment management with automated reminders & scheduling. | [![App Store](https://img.shields.io/badge/App_Store-3498DB?style=for-the-badge&logo=apple&logoColor=white)](YOUR_LINK_HERE)<br>[![Google Play](https://img.shields.io/badge/Google_Play-3498DB?style=for-the-badge&logo=google-play&logoColor=white)](YOUR_LINK_HERE) |
-| **My Thai Halal** | 🍜 Restaurant management system with real-time cart and order tracking. | [![App Store](https://img.shields.io/badge/App_Store-E6B800?style=for-the-badge&logo=apple&logoColor=black)](YOUR_LINK_HERE) |
-| **Malooz** | 📺 Ultimate streaming experience with 24/7 live TV, movies, series & events. | [![Google Play](https://img.shields.io/badge/Google_Play-9B7EDE?style=for-the-badge&logo=google-play&logoColor=white)](YOUR_LINK_HERE) |
+| **RepTally** | 💪 Workout tracker and gym logging app designed to record sets, reps, and monitor strength progression. | [![Live Preview](https://img.shields.io/badge/View_Project-00D26A?style=for-the-badge&logo=google-play&logoColor=black)](https://play.google.com/store/apps/details?id=com.reptally.app&hl=en&pli=1) |
+| **ReforNext** | 🌱 Join ReforNext to become an Ecosystem Restoration Agent. Fund native tree planting to save Bolivia's forests. | [![Live Preview](https://img.shields.io/badge/View_Project-E87EA1?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.refornext.favianflower&hl=en) |
+| **Homee Construction** | 🏠 Construction platform connecting property owners with verified builders, contractors, and architects. | [![Live Preview](https://img.shields.io/badge/View_Project-3498DB?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.homeeconstruction.app&hl=en) |
+| **TNT Project Tracker** | 🏗️ Dedicated client portal for real-time construction and renovation project tracking, schedule monitoring, and document management. | [![Live Preview](https://img.shields.io/badge/View_Project-E6B800?style=for-the-badge&logo=google-play&logoColor=black)](https://play.google.com/store/apps/details?id=com.tnt.projecttracker) |
+| **ADI Paris DSD** | 📅 Organization management platform for professional associations featuring event & Stripe subscription management. | [![Live Preview](https://img.shields.io/badge/View_Project-9B7EDE?style=for-the-badge&logo=google-play&logoColor=white)](https://apps.apple.com/fr/app/adi-paris-dsd/id6761746650) |
 
 ---
 
